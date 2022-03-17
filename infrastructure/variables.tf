@@ -3,7 +3,7 @@ variable "base-bucket-name" {
 }
 
 variable "enviroment" {
-  default = "producao"
+  default = "prod"
 }
 
 variable "account-number" {
